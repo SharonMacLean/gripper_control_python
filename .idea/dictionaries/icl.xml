@@ -1,0 +1,26 @@
+<component name="ProjectDictionaryState">
+  <dictionary name="icl">
+    <words>
+      <w>controlsetpoint</w>
+      <w>controlunits</w>
+      <w>curforce</w>
+      <w>curforcevar</w>
+      <w>curstate</w>
+      <w>curstatelabel</w>
+      <w>curstatevar</w>
+      <w>fingertype</w>
+      <w>inputfloat</w>
+      <w>inputresult</w>
+      <w>kuka</w>
+      <w>leadscrew</w>
+      <w>objectpositioninput</w>
+      <w>objectpositioninputfloat</w>
+      <w>openpositionvalue</w>
+      <w>openpositionvaluefloat</w>
+      <w>posuncertainty</w>
+      <w>posuncertaintylabel</w>
+      <w>posuncertaintyvar</w>
+      <w>validateuserinput</w>
+    </words>
+  </dictionary>
+</component>
